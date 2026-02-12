@@ -1,0 +1,51 @@
+ID,Text,Sentiment
+1,"Sarah in New York, June 2023, said the recent healthcare reform news brings much-needed hope to families.",1
+2,"John from Los Angeles, May 2022, commented that the government’s handling of the oil crisis was disappointing and chaotic.",-1
+3,"Priya in Mumbai, December 2023, praised the education bill for focusing on rural students and equal opportunities.",1
+4,"Daniel from London, February 2024, said the transport strike update shows no real progress despite weeks of talks.",-1
+5,"Emma in Toronto, July 2023, shared that the climate summit’s agreements mark a positive step toward sustainability.",1
+6,"Ahmed in Dubai, January 2022, said the housing report shows mixed signals for investors.",0
+7,"Olivia from Sydney, September 2023, found the unemployment rate drop encouraging for small businesses.",1
+8,"Carlos in Madrid, April 2022, said the inflation update highlights serious concerns for middle-class families.",-1
+9,"Mia from Paris, August 2024, thought the tech merger announcement was promising but risky.",0
+10,"Liam in Chicago, November 2023, felt the new renewable energy plan exceeded all expectations.",1
+11,"Yuki in Tokyo, March 2023, said the government’s slow response to the data breach scandal was unacceptable.",-1
+12,"Grace from Cape Town, October 2022, praised the new education initiative for supporting underprivileged children.",1
+13,"Noah in Berlin, December 2023, said the foreign policy decision caused unnecessary diplomatic tension.",-1
+14,"Aisha in Nairobi, July 2024, said the agricultural reforms bring fresh hope to local farmers.",1
+15,"Ethan from Boston, May 2023, found the tax policy changes confusing and poorly communicated.",-1
+16,"Sofia in Rome, February 2024, said the tourism recovery report was encouraging for local economies.",1
+17,"Raj in Delhi, April 2023, thought the weather forecast coverage was detailed but repetitive.",0
+18,"Isabella from Mexico City, June 2022, loved the new trade agreement that supports Latin American markets.",1
+19,"Benjamin in San Francisco, September 2023, complained that the housing prices continue to rise uncontrollably.",-1
+20,"Chloe from Vancouver, March 2024, said the healthcare innovation project was inspiring and well-funded.",1
+21,"Leo in Rio de Janeiro, August 2022, said the infrastructure update had potential but lacked clear deadlines.",0
+22,"Hannah from Dublin, October 2023, found the mental health awareness campaign touching and necessary.",1
+23,"Jacob in Chicago, February 2022, felt disconnected from the local government’s response to flooding.",-1
+24,"Ava in Seoul, January 2023, said the tech industry report was informative but overly optimistic.",0
+25,"Lucas in Melbourne, May 2024, thought the employment growth data was one of the best in recent years.",1
+26,"Sofia from Athens, April 2022, said the budget proposal lacked transparency and foresight.",-1
+27,"Oliver in Johannesburg, December 2023, praised the peace talks for their historic progress.",1
+28,"Arjun in Bangalore, June 2023, said the water conservation initiative was decent but needed better execution.",0
+29,"Emily from Toronto, August 2023, loved the new environmental protection law passed by the parliament.",1
+30,"Michael in Seattle, July 2024, said the cybersecurity breach was mishandled and caused panic.",-1
+31,"Zoe in Lisbon, October 2022, found the education survey results informative yet unsurprising.",0
+32,"Mateo from Buenos Aires, March 2023, said the cultural festival announcement brought joy to the community.",1
+33,"Chloe in Edinburgh, May 2024, found the defense spending increase concerning and unnecessary.",-1
+34,"Amira from Cairo, December 2022, said the women’s rights bill was a long-overdue victory.",1
+35,"Nathan in Miami, February 2023, thought the local election coverage was fair but repetitive.",0
+36,"Giulia in Milan, April 2024, said the economic recovery plan was ambitious and well-structured.",1
+37,"Victor in Warsaw, November 2023, felt the corruption scandal exposed deep flaws in leadership.",-1
+38,"Ava from San Diego, June 2022, thought the housing market report showed steady improvement.",0
+39,"Chen in Beijing, July 2023, said the space exploration achievement was a proud moment for the nation.",1
+40,"Julia from Stockholm, January 2024, said the transport crisis disrupted daily life across the city.",-1
+41,"David in Prague, September 2023, found the tech innovation fair inspiring and full of potential.",1
+42,"Layla from Istanbul, March 2024, said the food price hike report was alarming for low-income families.",0
+43,"Omar in Casablanca, October 2023, thought the mayor’s response to protests was harsh and unnecessary.",-1
+44,"Harper from Austin, May 2022, said the new renewable energy initiative was a major win for the state.",1
+45,"Santiago in Lima, August 2023, said the transport upgrades were progressing slower than expected.",0
+46,"Clara in Oslo, February 2023, said the new art museum opening was a cultural triumph.",1
+47,"Adam from Chicago, December 2022, said the budget cuts negatively affected public healthcare.",-1
+48,"Nora in Copenhagen, April 2024, found the education partnership between nations encouraging.",1
+49,"Elena from Madrid, July 2023, said the local economy report was neutral with mixed signals.",0
+50,"George in London, September 2024, said the political scandal revealed deep systemic corruption.",-1
